@@ -1,18 +1,13 @@
-## USER STORIES ##
+# USER STORIES #
 
-En tant qu'utilisateur :
+## Suivi du colis par numéro de suivi ##
 
-1- Je veux pouvoir saisir le numéro de suivi de mon colis
-dans l'application MyBPost afin de suivre son statut en
-temps réel.
+En tant qu'utilisateur, je veux saisir le numéro de suivi de mon colis dans l'application MyBpost pour suivre son statut.
 
-2- Je veux recevoir des notifications push sur mon
-appareil mobile lorsque le statut de mon colis change
-(par exemple : en transit, livré) afin d'être informé
-rapidement de son évolution.
+## Notifications push pour les mises à jour du statut du colis ##
 
-3- Je veux pouvoir visualiser un historique des
-mouvements de mon colis depuis son expédition jusqu'à sa
-livraison dans l'application MyBPost afin de retracer
-son parcours complet.
+En tant qu'utilisateur, je veux recevoir des notifications push sur mon appareil mobile lorsque le statut de mon colis change, pour être rapidement informé de son évolution.
 
+## Historique des mouvements du colis ##
+
+En tant qu'utilisateur, je veux visualiser un historique des mouvements de mon colis depuis son expédition jusqu'à sa livraison dans l'application MyBPost, pour retracer son parcours complet.
