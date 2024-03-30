@@ -1,0 +1,21 @@
+# Table des matières #
+
+## Introduction ##
+
+Objectif du document
+Portée de l'analyse
+Public cible
+
+## Analyse fonctionnelle de MyBPost ##
+
+Authentification et gestion des comptes
+Suivi des colis
+Gestion des adresses de livraison
+Notifications push
+Historique des commandes
+Paramètres de l'application
+
+## Glossaire de termes MyBPost ##
+
+Termes courants utilisés dans MyBPost
+Définitions et explications
