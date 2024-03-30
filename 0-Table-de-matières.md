@@ -8,7 +8,8 @@
 
 ## 2-Analyse fonctionnelle ##
 #### 2.1-User stories  ####
-#### 2.2-liste des ecrans   ####
+#### 2.2-User stories  ####
+#### 2.3-liste des ecrans   ####
 
 
 ## 3-Glossaire de termes MyBPost ##
