@@ -16,5 +16,5 @@
 
 ## 3-Glossaire ##
 
-#### - Termes courants ####
-#### - Définitions  ####
+#### 3.1-Termes courants ####
+#### 3.2-Définitions  ####
