@@ -7,11 +7,8 @@
 #### - Public cible ####
 
 ## 2-Analyse fonctionnelle de MyBPost ##
+#### User stories  ####
 
-#### - Authentification et gestion des comptes ####
-#### - Suivi des colis ####
-#### - Notifications push ####
-#### - Historique des commandes ####
 
 ## 3-Glossaire de termes MyBPost ##
 
