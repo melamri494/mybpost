@@ -2,7 +2,7 @@
 
 ## 1-Introduction ##
 
-#### - Objectif du document ####
+#### - Objectif de l'application ####
 #### - Portée de l'analyse ####
 #### - Public cible ####
 
