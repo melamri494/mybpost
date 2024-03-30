@@ -7,7 +7,7 @@
 #### 1.3-Public cible ####
 
 ## 2-Analyse fonctionnelle ##
-#### 2.1-User stories  ####
+#### 2.1-Utilisateurs   ####
 #### 2.2-User stories  ####
 #### 2.3-liste des ecrans   ####
 
