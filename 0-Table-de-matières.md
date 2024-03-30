@@ -2,12 +2,13 @@
 
 ## 1-Introduction ##
 
-#### - Objectif de l'application ####
-#### - Portée de l'analyse ####
-#### - Public cible ####
+#### 1.1-Objectif de l'application ####
+#### 1.2-Portée de l'analyse ####
+#### 1.3-Public cible ####
 
-## 2-Analyse fonctionnelle de MyBPost ##
-#### User stories  ####
+## 2-Analyse fonctionnelle ##
+#### 2.1-User stories  ####
+#### 2.2-liste des ecrans   ####
 
 
 ## 3-Glossaire de termes MyBPost ##
