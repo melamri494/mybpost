@@ -3,8 +3,9 @@
 ## 1-Introduction ##
 
 #### 1.1-Objectif de l'application ####
-#### 1.2-Portée de l'analyse ####
-#### 1.3-Public cible ####
+#### 1.2-Contexte ###
+
+
 
 ## 2-Analyse fonctionnelle ##
 #### 2.1-Utilisateurs   ####
@@ -13,7 +14,7 @@
 #### 2.3-data bases   ####
 
 
-## 3-Glossaire de termes MyBPost ##
+## 3-Glossaire ##
 
-#### - Termes courants utilisés dans MyBPost ####
-#### - Définitions et explications ####
+#### - Termes courants ####
+#### - Définitions  ####
