@@ -10,10 +10,8 @@
 
 #### - Authentification et gestion des comptes ####
 #### - Suivi des colis ####
-#### - Gestion des adresses de livraison ####
 #### - Notifications push ####
 #### - Historique des commandes ####
-#### - Paramètres de l'application# ####
 
 ## 3-Glossaire de termes MyBPost ##
 
