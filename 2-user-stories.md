@@ -9,4 +9,4 @@ Les utilisateurs recoivent des notifications push sur  leur appareil mobile lors
 
 ## Historique des mouvements du colis ##
 
-les utilisateurs peuvent visualiser un historique des mouvements de leur colis depuis son expédition jusqu'à sa livraison dans l'application MyBPost, pour retracer son parcours complet.
+Les utilisateurs peuvent visualiser un historique des mouvements de leur colis depuis son expédition jusqu'à sa livraison dans l'application MyBPost, pour retracer son parcours complet.
