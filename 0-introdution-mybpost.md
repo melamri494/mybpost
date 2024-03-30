@@ -1,13 +1,13 @@
--- My-BPost-App
- 
-Application de Suivi de Colis. essai
+## MyBpost-App ## 
 
---  Contexte
+Application de Suivi de Colis. 
 
-MyBPost est une application  pour permettre aux utilisateurs de 
+## Contexte ##
+
+MyBpost est une application  pour permettre aux utilisateurs de 
 suivre leurs colis expédiés via le service postal BPost.
 
---  Introduction
+## Introduction ##
 
 Ce dossier d'analyse est conçu pour décrire les fonctionnalités 
 principales de l'application MyBPost, ainsi que pour fournir un glossaire 
