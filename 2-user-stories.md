@@ -1,5 +1,9 @@
 # USER STORIES #
 
+## Authentification et Gestion des Comptes ##
+
+Permettre aux utilisateurs de créer un compte, de s'authentifier de manière sécurisée et de gérer leurs informations personnelles.
+
 ## Suivi du colis par numéro de suivi ##
 
 Les utilisateurs peuvent saisir le numéro de suivi de mon colis dans l'application MyBpost pour suivre son statut.

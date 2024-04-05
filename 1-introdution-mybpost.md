@@ -1,10 +1,11 @@
 ## 1.1-Objectif de l'application ##
 
-L'objectif de l'application MyBpost est de permettre aux utilisateurs d'accéder facilement aux informations concernant leurs colis envoyés via le service postal belge Bpost. Les utilisateurs pourront suivre l'état de leurs colis en temps réel et recevoir des notifications sur les mises à jour importantes.
+Application de Suivi de Colis. 
 
 ## 1.2-Contexte ##
 
-Dans un monde où les achats en ligne sont de plus en plus courants, il est essentiel de fournir aux utilisateurs un moyen simple et efficace de suivre leurs colis. L'application MyBpost vise à répondre à ce besoin en offrant une expérience conviviale et intuitive.
+MyBpost est une application  pour permettre aux utilisateurs de 
+suivre leurs colis expédiés via le service postal BPost.
 
 ## 1.3-Description de l'application ##
 
