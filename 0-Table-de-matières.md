@@ -19,7 +19,7 @@
 #### 3.2-Tâches à réaliser###
 
 
-## 3-Glossaire ##
+## 4-Glossaire ##
 
-#### 3.1-Termes courants ####
-#### 3.2-Définitions  ####
+#### 4.1-Termes courants ####
+#### 4.2-Définitions  ####
