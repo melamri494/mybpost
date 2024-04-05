@@ -9,4 +9,4 @@ Dans un monde où les achats en ligne sont de plus en plus courants, il est esse
 
 ## 1.3-Description de l'application ##
 
-MyBPost permet aux utilisateurs de créer un compte, de se connecter et de suivre leurs colis enregistrés. Les utilisateurs peuvent ajouter des informations sur leurs colis, telles que le numéro de suivi, et recevoir des notifications lorsque l'état de leurs colis change. L'application fournira également des détails sur les points de livraison et les délais de livraison estimés.
+MyBPost permet aux utilisateurs de créer un compte, de se connecter et de suivre leurs colis enregistrés. Les utilisateurs peuvent ajouter des informations sur leurs colis, telles que le numéro de suivi, et recevoir des notifications lorsque l'état de leurs colis change. L'application fournira également des détails sur les points de livraison et les délais de livraison estimés
