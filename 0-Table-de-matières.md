@@ -13,6 +13,11 @@
 #### 2.3-liste des ecrans   ####
 #### 2.4-data bases   ####
 
+## 3-Backlog ##
+
+#### 3.1-Fonctionnalités principales  ####
+#### 3.2-Tâches à réaliser###
+
 
 ## 3-Glossaire ##
 
