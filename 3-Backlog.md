@@ -24,11 +24,11 @@ Mettre en place un système d'authentification sécurisé pour permettre aux uti
 
 Développer une fonctionnalité permettant aux expéditeurs de créer de nouveaux envois en saisissant les détails requis, tels que l'adresse de destination, le poids, les dimensions.
 
-### Gestion des Profils Utilisateurs :###
+### Gestion des Profils Utilisateurs : ###
 
 Permettre aux utilisateurs de gérer leur profil, y compris la modification des informations personnelles, la gestion des préférences de notification.
 
-### Langues ####:
+### Langues : ###
 
 Intégrer la prise en charge de plusieurs langues pour rendre l'application accessible à un large éventail d'utilisateurs.
 
