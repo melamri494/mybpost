@@ -32,6 +32,6 @@ Permettre aux utilisateurs de gérer leur profil, y compris la modification des 
 
 Intégrer la prise en charge de plusieurs langues pour rendre l'application accessible à un large éventail d'utilisateurs.
 
-#### Sécurité des Données : ###
+### Sécurité des Données : ###
 
 Mettre en œuvre des mesures de sécurité robustes pour protéger les données des utilisateurs, y compris le chiffrement des données et la protection contre les attaques potentielles.
