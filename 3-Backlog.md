@@ -28,7 +28,7 @@ Développer une fonctionnalité permettant aux expéditeurs de créer de nouveau
 
 Permettre aux utilisateurs de gérer leur profil, y compris la modification des informations personnelles, la gestion des préférences de notification.
 
-### Langues ####:
+### Langues : ###
 
 Intégrer la prise en charge de plusieurs langues pour rendre l'application accessible à un large éventail d'utilisateurs.
 
