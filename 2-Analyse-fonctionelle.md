@@ -23,8 +23,6 @@ Les gestionnaires de livraison sont des personnes responsables de la distributio
 
 Suivi des envois en transit : Ils doivent avoir une vue d'ensemble des colis en transit pour planifier efficacement les itinéraires de livraison.
 
-### Gestion des exceptions : ###
-
 En cas de problème de livraison, tels que des colis perdus ou endommagés, les gestionnaires de livraison doivent être en mesure de gérer ces situations et de prendre les mesures nécessaires.
 Communication avec les destinataires : Ils peuvent avoir besoin de communiquer directement avec les destinataires pour planifier la livraison ou résoudre des problèmes potentiels.
 
