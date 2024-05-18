@@ -3,21 +3,20 @@
 ## 1-Introduction ##
 
 #### 1.1-Objectif de l'application ####
-#### 1.2-Contexte ###
-
-
+#### 1.2-Contexte ####
+#### 1.3-Description de l application ####
 
 ## 2-Analyse fonctionnelle ##
+
 #### 2.1-Utilisateurs   ####
 #### 2.2-User stories  ####
 #### 2.3-liste des ecrans   ####
-#### 2.4-data bases   ####
+#### 2.4-Base de données   ####
 
 ## 3-Backlog ##
 
 #### 3.1-Fonctionnalités principales  ####
 #### 3.2-Tâches à réaliser###
-
 
 ## 4-Glossaire ##
 
