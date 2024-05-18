@@ -6,9 +6,9 @@
 
 Les expéditeurs sont des individus ou des entreprises qui envoient des colis via Bpost Leurs besoins incluent :
 
-Création d'envois : Ils doivent pouvoir saisir les détails de l'envoi, tels que l'adresse de destination, le poids, les dimensions.
-Suivi des envois sortants : Les expéditeurs doivent pouvoir suivre l'état de leurs colis en transit, afin de garantir une livraison réussie à destination.
-Gestion des notifications : Ils peuvent souhaiter recevoir des notifications sur l'état de livraison de leurs colis pour être informés des retards ou des problèmes éventuels.
+* Création d'envois : Ils doivent pouvoir saisir les détails de l'envoi, tels que l'adresse de destination, le poids, les dimensions.
+* Suivi des envois sortants : Les expéditeurs doivent pouvoir suivre l'état de leurs colis en transit, afin de garantir une livraison réussie à destination.
+* Gestion des notifications : Ils peuvent souhaiter recevoir des notifications sur l'état de livraison de leurs colis pour être informés des retards ou des problèmes éventuels.
 
 ### Destinataires : ###
 
