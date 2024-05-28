@@ -1,13 +1,14 @@
-# Classes et leurs Attributs :
 
-## ConfirmationLivraison
+# Classes et leurs Attributs :#
+
+## ConfirmationLivraison ##
 
 - idConfirmation : int
 - idExpedition : int
 - dateConfirmation : Date
 - signatureElectronique : String
 
-### Méthodes
+### Méthodes ###
 
 - getIdConfirmation()
 - setIdConfirmation(int idConfirmation)
@@ -18,7 +19,7 @@
 - getSignatureElectronique()
 - setSignatureElectronique(String signatureElectronique)
 
-## Expeditions
+## Expeditions ##
 
 - idExpedition : int
 - idColis : int
@@ -28,7 +29,7 @@
 - miseAJourStatut : String
 - dateMiseAJour : Date
 
-### Méthodes
+### Méthodes ###
 
 - getIdExpedition()
 - setIdExpedition(int idExpedition)
@@ -45,7 +46,7 @@
 - getDateMiseAJour()
 - setDateMiseAJour(Date dateMiseAJour)
 
-## Utilisateurs
+## Utilisateurs ##
 
 - idUtilisateur : int
 - nomUtilisateur : String
@@ -54,7 +55,7 @@
 - roleUtilisateur : String
 - dateCreation : Date
 
-### Méthodes
+### Méthodes ###
 
 - getIdUtilisateur()
 - setIdUtilisateur(int idUtilisateur)
@@ -69,7 +70,7 @@
 - getDateCreation()
 - setDateCreation(Date dateCreation)
 
-## ProblemesLivraison
+## ProblemesLivraison ##
 
 - idProbleme : int
 - idExpedition : int
@@ -78,7 +79,7 @@
 - statutResolution : boolean
 - dateMiseAJour : Date
 
-### Méthodes
+### Méthodes ###
 
 - getIdProbleme()
 - setIdProbleme(int idProbleme)
@@ -93,7 +94,7 @@
 - getDateMiseAJour()
 - setDateMiseAJour(Date dateMiseAJour)
 
-## Notifications
+## Notifications ##
 
 - idNotification : int
 - idUtilisateur : int
@@ -101,7 +102,7 @@
 - message : String
 - dateNotification : Date
 
-### Méthodes
+### Méthodes ###
 
 - getIdNotification()
 - setIdNotification(int idNotification)
@@ -114,7 +115,7 @@
 - getDateNotification()
 - setDateNotification(Date dateNotification)
 
-## Communications
+## Communications ##
 
 - idCommunication : int
 - idExpedition : int
@@ -122,7 +123,7 @@
 - dateCommunication : Date
 - message : String
 
-### Méthodes
+### Méthodes ###
 
 - getIdCommunication()
 - setIdCommunication(int idCommunication)
@@ -135,7 +136,7 @@
 - getMessage()
 - setMessage(String message)
 
-## Colis
+## Colis ##
 
 - idColis : int
 - idUtilisateur : int
@@ -146,7 +147,7 @@
 - adresse : String
 - attribute : String
 
-### Méthodes
+### Méthodes ###
 
 - getIdColis()
 - setIdColis(int idColis)
@@ -165,7 +166,7 @@
 - getAttribute()
 - setAttribute(String attribute)
 
-# Relations entre les Classes :
+# Relations entre les Classes : #
 
 - ConfirmationLivraison est liée à Expeditions par id_expedition (relation 1:1).
 - Expeditions est liée à Colis par id_colis (relation N:1).
